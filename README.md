@@ -167,7 +167,7 @@ Observe the DHCP traffic appearing in WireShark:
   You'll be obseving a non-stop stream of traffic. Do you know why there is constant traffic in our tcp.port==3389?
 </p>
 <p>
-  The answer is because the RDP (protocol) is constantly showing you a live stream from one computer to another, therefor traffic is always being transmitted:
+  The answer is because the RDP (protocol) is constantly showing you a live stream from one computer to another, therefore traffic is always being transmitted:
 </p>
 <p>
   <img src="https://i.imgur.com/hNlhTVp.png" height="75%" width="100%" alt="RDP traffic"/>
